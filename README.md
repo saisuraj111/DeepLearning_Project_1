@@ -33,3 +33,6 @@ bias enhances model fairness and generalization. By using the Deep face library 
 the gender and comparing the biased and balanced models. We use the same dataset splits
 as used in the part 1 ensuring a robust framework for comparing model performance with and
 without gender bias considerations
+
+Every part has it sample set of predictions on how the model behaves . i.e the true predictions 
+vs the Actual predictions.
