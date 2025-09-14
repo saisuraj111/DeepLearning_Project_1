@@ -36,3 +36,5 @@ without gender bias considerations
 
 Every part has it sample set of predictions on how the model behaves . i.e the true predictions 
 vs the Actual predictions.
+
+## License: This project was developed and is intended for academic purposes only. You may view, reference, or adapt the code with proper citation, but commercial use is not permitted.
