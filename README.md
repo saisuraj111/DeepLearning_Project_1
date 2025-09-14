@@ -1,3 +1,5 @@
+## Deep Learning Project: Age Estimator using CNN Classification and Regression Techniques, Involving predictions using Auto encoders, Resnet-50, and Predictions using Deep face
+
 This report details the implementation of a deep learning pipeline for age estimation and
 gender bias analysis using the Kaggle facial age dataset
 (https://www.kaggle.com/datasets/frabbisw/facial-age), as per the Deep Learning Assignment
